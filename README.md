@@ -10,3 +10,5 @@ npm test
 ```
 
 If tests are passed, it works.
+
+BTW, it comes from the blog [https://www.terlici.com/2014/09/15/node-testing.html](https://www.terlici.com/2014/09/15/node-testing.html)
