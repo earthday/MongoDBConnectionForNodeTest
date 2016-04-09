@@ -1,0 +1,19 @@
+{
+  "name": "MongoDBConnectionForNodeTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.3.0"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "mongodb": "^2.1.16"
+  }
+}
